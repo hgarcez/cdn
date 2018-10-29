@@ -64,7 +64,7 @@ div.rele2_desligado {
 
 #div1 {
 	position: absolute;
-	right: 100px;
+	right: 85px;
 	top: 195px;
     border-radius: 25px;
     border: 2px solid #000000;
@@ -84,7 +84,7 @@ div.rele2_desligado {
 
 #botao{
     position: absolute;
-    right: 230px;
+    right: 500px;
     top: 250px;
 	 width: 200px;
     height: 256px;
